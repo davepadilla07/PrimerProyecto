@@ -76,6 +76,18 @@ public class MainActivity extends AppCompatActivity {
                 i.putExtras(b);
                 startActivity(i);
             }
+            if (r1.isChecked() && r4.isChecked() && r5.isChecked() && r9.isChecked()){
+                precio = cant * 100 * 3200;
+                b.putDouble("precio", precio);
+                i.putExtras(b);
+                startActivity(i);
+            }
+            if (r1.isChecked() && r4.isChecked() && r5.isChecked() && r10.isChecked()){
+                precio = cant * 100;
+                b.putDouble("precio", precio);
+                i.putExtras(b);
+                startActivity(i);
+            }
 
 
         }

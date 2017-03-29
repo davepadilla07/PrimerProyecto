@@ -40,6 +40,27 @@
                 android:textSize="18sp"
                 android:textStyle="normal|bold" />
 
+            <RadioGroup
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1">
+
+                <RadioButton
+                    android:text="@string/cuero"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/r1"
+                    android:layout_weight="1"
+                    android:checked="true" />
+
+                <RadioButton
+                    android:text="@string/cuerda"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/r2"
+                    android:layout_weight="1" />
+            </RadioGroup>
+
             <TextView
                 android:text="@string/intro2"
                 android:layout_width="match_parent"
@@ -67,26 +88,6 @@
                     android:id="@+id/r4"
                     android:layout_weight="1" />
 
-                <RadioGroup
-                    android:layout_width="match_parent"
-                    android:layout_height="match_parent"
-                    android:layout_weight="1">
-
-                    <RadioButton
-                        android:text="@string/cuero"
-                        android:layout_width="wrap_content"
-                        android:layout_height="wrap_content"
-                        android:id="@+id/r1"
-                        android:layout_weight="1"
-                        android:checked="true" />
-
-                    <RadioButton
-                        android:text="@string/cuerda"
-                        android:layout_width="wrap_content"
-                        android:layout_height="wrap_content"
-                        android:id="@+id/r2"
-                        android:layout_weight="1" />
-                </RadioGroup>
             </RadioGroup>
 
             <TextView
