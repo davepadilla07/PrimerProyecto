@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">PrimerProyecto</string>
+    <string name="producto">Producto</string>
+    <string name="error1">Por favor digite la cantidad</string>
+    <string name="p1">Cantidad a pagar:</string>
+    <string name="precio">precio</string>
+    <string name="material">Material</string>
+    <string name="dije">Dije</string>
+    <string name="tipo">Tipo</string>
+    <string name="cuero">Cuero</string>
+    <string name="cuerda">Cuerda</string>
+    <string name="intro1">Elija el material:</string>
+    <string name="intro2">Elija tipo de dije:</string>
+    <string name="martillo">Martillo</string>
+    <string name="ancla">Ancla</string>
+    <string name="intro3">Elija presentacion:</string>
+    <string name="oro">Oro</string>
+    <string name="oro2">Oro Rosado</string>
+    <string name="plata">Plata</string>
+    <string name="niquel">Niquel</string>
+    <string name="intro4">Que tipo de moneda desea?</string>
+    <string name="m1">Peso Colombiano</string>
+    <string name="m2">Dolar Estadounidense</string>
+    <string name="cantidad">Digite la cantidad en numero</string>
+    <string name="pedido">PEDIDO</string>
+    <string name="peticion">PETICION</string>
+    <string name="borrar">BORRAR</string>
+    <string-array name="materiales">
+        <item>@string/cuero</item>
+        <item>@string/cuerda</item>
+    </string-array>
+    <string-array name="dijes">
+        <item>@string/martillo</item>
+        <item>@string/ancla</item>
+    </string-array>
+    <string-array name="tipos">
+        <item>@string/oro</item>
+        <item>@string/oro2</item>
+        <item>@string/plata</item>
+        <item>@string/niquel</item>
+    </string-array>
+    <string-array name="monedas">
+        <item>@string/m1</item>
+        <item>@string/m2</item>
+    </string-array>
+
+</resources>

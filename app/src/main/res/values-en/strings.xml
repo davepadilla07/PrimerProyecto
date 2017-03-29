@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PrimerProyecto</string>
+    <string name="cuerda">Rope</string>
+    <string name="borrar">CLEAR</string>
+    <string name="cantidad">Enter quantity in number</string>
+    <string name="cuero">Leather</string>
+    <string name="dije">Pendant</string>
+    <string name="error1">Please enter the amount</string>
+    <string name="intro1">Choose the material:</string>
+    <string name="intro2">Choose type of pendant:</string>
+    <string name="intro3">Choose presentation:</string>
+    <string name="intro4">What kind of currency do you want?</string>
+    <string name="m1">Colombian peso</string>
+    <string name="m2">American dollar</string>
+    <string name="martillo">Hammer</string>
+    <string name="material">Material</string>
+    <string name="niquel">Nickel</string>
+    <string name="oro">Gold</string>
+    <string name="oro2">Pink Gold</string>
+    <string name="p1">Amount to be paid:</string>
+    <string name="pedido">ORDER</string>
+    <string name="peticion">PETITION</string>
+    <string name="plata">Silver</string>
+    <string name="producto">Product</string>
+    <string name="tipo">Type</string>
+</resources>
